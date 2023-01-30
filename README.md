@@ -1,2 +1,3 @@
-# EWW---Set-1
-EWW asset set #1 
+# EWW - Free asset set
+
+All free assets made by EWW will be here.
