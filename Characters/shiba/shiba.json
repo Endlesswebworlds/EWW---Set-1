@@ -131,6 +131,8 @@
 "animations": {
 	"idle": ["shiba_walking_bottom left_1.png"],
 	"idle_s": ["shiba_walking_bottom left_1.png"],
+	"idle_ne": ["shiba_walking_bottom left_1.png"],
+	"idle_nw": ["shiba_walking_bottom left_1.png"],
 	"idle_sw": ["shiba_walking_bottom left_1.png"],
 	"idle_se": ["shiba_walking_bottom left_1.png"],
 	"move_sw": ["shiba_walking_bottom left_1.png","shiba_walking_bottom left_2.png","shiba_walking_bottom left_3.png","shiba_walking_bottom left_4.png"],
