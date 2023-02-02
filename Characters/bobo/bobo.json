@@ -129,16 +129,16 @@
 	"sourceSize": {"w":86,"h":100}
 }},
 "animations": {
-	"idle": ["bobo_walking_bottom_left_2.png"],
-	"idle_s": ["bobo_walking_bottom_left_2.png"],
-	"idle_ne": ["bobo_walking_top_right_2.png"],
-	"idle_nw": ["bobo_walking_top_left_2.png"],
-	"idle_sw": ["bobo_walking_bottom_left_2.png"],
-	"idle_se": ["bobo_walking_bottom_right_2.png"],
-	"move_sw": ["bobo_walking_bottom_left_1.png","bobo_walking_bottom_left_2.png","bobo_walking_bottom_left_3.png","bobo_walking_bottom_left_4.png"],
-	"move_se": ["bobo_walking_bottom_right_1.png","bobo_walking_bottom_right_2.png","bobo_walking_bottom_right_3.png","bobo_walking_bottom_right_4.png"],
-	"move_nw": ["bobo_walking_top_left_1.png","bobo_walking_top_left_2.png","bobo_walking_top_left_3.png","bobo_walking_top_left_4.png"],
-	"move_ne": ["bobo_walking_top_right_1.png","bobo_walking_top_right_2.png","bobo_walking_top_right_3.png","bobo_walking_top_right_4.png"]
+	"idle": ["bobo_bottom_left_2.png"],
+	"idle_s": ["bobo_bottom_left_2.png"],
+	"idle_ne": ["bobo_top_right_2.png"],
+	"idle_nw": ["bobo_top_left_2.png"],
+	"idle_sw": ["bobo_bottom_left_2.png"],
+	"idle_se": ["bobo_bottom_right_2.png"],
+	"move_sw": ["bobo_bottom_left_1.png","bobo_bottom_left_2.png","bobo_bottom_left_3.png","bobo_bottom_left_4.png"],
+	"move_se": ["bobo_bottom_right_1.png","bobo_bottom_right_2.png","bobo_bottom_right_3.png","bobo_bottom_right_4.png"],
+	"move_nw": ["bobo_top_left_1.png","bobo_top_left_2.png","bobo_top_left_3.png","bobo_top_left_4.png"],
+	"move_ne": ["bobo_top_right_1.png","bobo_top_right_2.png","bobo_top_right_3.png","bobo_top_right_4.png"]
 },
 "meta": {
 	"version": "1.0",
