@@ -1,0 +1,150 @@
+{"frames": {
+
+"dogella_walking_bottom left_1.png":
+{
+	"frame": {"x":243,"y":1,"w":83,"h":129},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":83,"h":129},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom left_2.png":
+{
+	"frame": {"x":374,"y":1,"w":83,"h":128},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":83,"h":128},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom left_3.png":
+{
+	"frame": {"x":504,"y":86,"w":86,"h":129},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":86,"h":129},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom left_4.png":
+{
+	"frame": {"x":504,"y":1,"w":83,"h":129},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":83,"h":129},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom right_1.png":
+{
+	"frame": {"x":635,"y":1,"w":83,"h":129},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":129},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom right_2.png":
+{
+	"frame": {"x":766,"y":1,"w":83,"h":128},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":83,"h":128},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom right_3.png":
+{
+	"frame": {"x":635,"y":86,"w":86,"h":129},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":129},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_bottom right_4.png":
+{
+	"frame": {"x":1,"y":85,"w":83,"h":129},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":83,"h":129},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top left_1.png":
+{
+	"frame": {"x":766,"y":86,"w":86,"h":125},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":86,"h":125},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top left_2.png":
+{
+	"frame": {"x":1,"y":1,"w":82,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":82,"h":119},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top left_3.png":
+{
+	"frame": {"x":896,"y":1,"w":83,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":83,"h":122},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top left_4.png":
+{
+	"frame": {"x":132,"y":86,"w":83,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":83,"h":122},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top right_1.png":
+{
+	"frame": {"x":893,"y":86,"w":86,"h":125},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":86,"h":125},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top right_2.png":
+{
+	"frame": {"x":122,"y":1,"w":82,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":82,"h":119},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top right_3.png":
+{
+	"frame": {"x":256,"y":86,"w":83,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":83,"h":122},
+	"sourceSize": {"w":90,"h":130}
+},
+"dogella_walking_top right_4.png":
+{
+	"frame": {"x":380,"y":86,"w":83,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":83,"h":122},
+	"sourceSize": {"w":90,"h":130}
+}},
+"animations": {
+	"idle": ["dogella_walking_bottom left_2.png"],
+	"idle_s": ["dogella_walking_bottom left_2.png"],
+	"idle_ne": ["dogella_walking_top right_2.png"],
+	"idle_nw": ["dogella_walking_top left_2.png"],
+	"idle_sw": ["dogella_walking_bottom left_2.png"],
+	"idle_se": ["dogella_walking_bottom right_2.png"],
+	"move_sw": ["dogella_walking_bottom left_1.png","dogella_walking_bottom left_2.png","dogella_walking_bottom left_3.png","dogella_walking_bottom left_4.png"],
+	"move_se": ["dogella_walking_bottom right_1.png","dogella_walking_bottom right_2.png","dogella_walking_bottom right_3.png","dogella_walking_bottom right_4.png"],
+	"move_nw": ["dogella_walking_top left_1.png","dogella_walking_top left_2.png","dogella_walking_top left_3.png","dogella_walking_top left_4.png"],
+	"move_ne": ["dogella_walking_top right_1.png","dogella_walking_top right_2.png","dogella_walking_top right_3.png","dogella_walking_top right_4.png"]
+},
+"meta": {
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/dogella/dogella.png",
+	"format": "RGBA8888",
+	"size": {"w":1019,"h":173},
+	"scale": "1"
+}
+}

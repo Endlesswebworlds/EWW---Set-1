@@ -1,0 +1,150 @@
+{"frames": {
+
+"bobo_bottom_left_1.png":
+{
+	"frame": {"x":1,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_left_2.png":
+{
+	"frame": {"x":277,"y":1,"w":67,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":67,"h":87},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_left_3.png":
+{
+	"frame": {"x":1,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_left_4.png":
+{
+	"frame": {"x":346,"y":1,"w":67,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":67,"h":87},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_right_1.png":
+{
+	"frame": {"x":70,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_right_2.png":
+{
+	"frame": {"x":415,"y":1,"w":67,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":11,"w":67,"h":87},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_right_3.png":
+{
+	"frame": {"x":70,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_bottom_right_4.png":
+{
+	"frame": {"x":484,"y":1,"w":67,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":11,"w":67,"h":87},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_left_1.png":
+{
+	"frame": {"x":553,"y":1,"w":67,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":11,"w":67,"h":87},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_left_2.png":
+{
+	"frame": {"x":139,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_left_3.png":
+{
+	"frame": {"x":691,"y":1,"w":67,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":11,"w":67,"h":85},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_left_4.png":
+{
+	"frame": {"x":139,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_right_1.png":
+{
+	"frame": {"x":622,"y":1,"w":67,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":67,"h":87},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_right_2.png":
+{
+	"frame": {"x":208,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_right_3.png":
+{
+	"frame": {"x":760,"y":1,"w":67,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":67,"h":85},
+	"sourceSize": {"w":86,"h":100}
+},
+"bobo_top_right_4.png":
+{
+	"frame": {"x":208,"y":1,"w":67,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":67,"h":90},
+	"sourceSize": {"w":86,"h":100}
+}},
+"animations": {
+	"idle": ["bobo_walking_bottom_left_2.png"],
+	"idle_s": ["bobo_walking_bottom_left_2.png"],
+	"idle_ne": ["bobo_walking_top_right_2.png"],
+	"idle_nw": ["bobo_walking_top_left_2.png"],
+	"idle_sw": ["bobo_walking_bottom_left_2.png"],
+	"idle_se": ["bobo_walking_bottom_right_2.png"],
+	"move_sw": ["bobo_walking_bottom_left_1.png","bobo_walking_bottom_left_2.png","bobo_walking_bottom_left_3.png","bobo_walking_bottom_left_4.png"],
+	"move_se": ["bobo_walking_bottom_right_1.png","bobo_walking_bottom_right_2.png","bobo_walking_bottom_right_3.png","bobo_walking_bottom_right_4.png"],
+	"move_nw": ["bobo_walking_top_left_1.png","bobo_walking_top_left_2.png","bobo_walking_top_left_3.png","bobo_walking_top_left_4.png"],
+	"move_ne": ["bobo_walking_top_right_1.png","bobo_walking_top_right_2.png","bobo_walking_top_right_3.png","bobo_walking_top_right_4.png"]
+},
+"meta": {
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/bobo/bobo.png",
+	"format": "RGBA8888",
+	"size": {"w":828,"h":92},
+	"scale": "1"
+}
+}

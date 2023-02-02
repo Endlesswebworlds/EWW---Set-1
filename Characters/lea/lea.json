@@ -1,0 +1,150 @@
+{"frames": {
+
+"lea_walking_bottom_left_1.png":
+{
+	"frame": {"x":1,"y":265,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_bottom_left_2.png":
+{
+	"frame": {"x":1,"y":397,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_bottom_left_3.png":
+{
+	"frame": {"x":1,"y":1,"w":91,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":130},
+	"sourceSize": {"w":91,"h":130}
+},
+"lea_walking_bottom_left_4.png":
+{
+	"frame": {"x":1,"y":397,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_bottom_right_1.png":
+{
+	"frame": {"x":1,"y":529,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_bottom_right_2.png":
+{
+	"frame": {"x":1,"y":661,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_bottom_right_3.png":
+{
+	"frame": {"x":1,"y":133,"w":91,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":130},
+	"sourceSize": {"w":91,"h":130}
+},
+"lea_walking_bottom_right_4.png":
+{
+	"frame": {"x":1,"y":661,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_left_1.png":
+{
+	"frame": {"x":1,"y":793,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_left_2.png":
+{
+	"frame": {"x":1,"y":925,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_left_3.png":
+{
+	"frame": {"x":1,"y":1057,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_left_4.png":
+{
+	"frame": {"x":1,"y":925,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_right_1.png":
+{
+	"frame": {"x":1,"y":1189,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_right_2.png":
+{
+	"frame": {"x":1,"y":1321,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_right_3.png":
+{
+	"frame": {"x":1,"y":1453,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"lea_walking_top_right_4.png":
+{
+	"frame": {"x":1,"y":1321,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+}},
+"animations": {
+	"idle": ["lea_walking_bottom_left_2.png"],
+	"idle_s": ["lea_walking_bottom_left_2.png"],
+	"idle_ne": ["lea_walking_top_right_2.png"],
+	"idle_nw": ["lea_walking_top_left_2.png"],
+	"idle_sw": ["lea_walking_bottom_left_2.png"],
+	"idle_se": ["lea_walking_bottom_right_2.png"],
+	"move_sw": ["lea_walking_bottom_left_1.png","lea_walking_bottom_left_2.png","lea_walking_bottom_left_3.png","lea_walking_bottom_left_4.png"],
+	"move_se": ["lea_walking_bottom_right_1.png","lea_walking_bottom_right_2.png","lea_walking_bottom_right_3.png","lea_walking_bottom_right_4.png"],
+	"move_nw": ["lea_walking_top_left_1.png","lea_walking_top_left_2.png","lea_walking_top_left_3.png","lea_walking_top_left_4.png"],
+	"move_ne": ["lea_walking_top_right_1.png","lea_walking_top_right_2.png","lea_walking_top_right_3.png","lea_walking_top_right_4.png"]
+},
+"meta": {
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/lea/lea.png",
+	"format": "RGBA8888",
+	"size": {"w":93,"h":1584},
+	"scale": "1"
+}
+}

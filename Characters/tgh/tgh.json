@@ -1,0 +1,46 @@
+{"frames": {
+
+"tgh1.png":
+{
+	"frame": {"x":0,"y":0,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"tgh2.png":
+{
+	"frame": {"x":140,"y":0,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"tgh3.png":
+{
+	"frame": {"x":280,"y":0,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+}},
+"animations": {
+	"idle": ["tgh1.png","tgh2.png","tgh3.png"],
+	"idle_s": ["tgh1.png","tgh2.png","tgh3.png"],
+	"idle_ne": ["tgh1.png","tgh2.png","tgh3.png"],
+	"idle_nw": ["tgh1.png","tgh2.png","tgh3.png"],
+	"idle_sw": ["tgh1.png","tgh2.png","tgh3.png"],
+	"idle_se": ["tgh1.png","tgh2.png","tgh3.png"],
+	"move_sw": ["tgh1.png","tgh2.png","tgh3.png"],
+	"move_se": ["tgh1.png","tgh2.png","tgh3.png"],
+	"move_nw": ["tgh1.png","tgh2.png","tgh3.png"],
+	"move_ne": ["tgh1.png","tgh2.png","tgh3.png"]
+},
+"meta": {
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/tgh/tgh.png",
+	"format": "RGBA8888",
+	"size": {"w":420,"h":140},
+	"scale": "1"
+}
+}

@@ -1,0 +1,150 @@
+{"frames": {
+
+"giga_walking_bottom_left_1.png":
+{
+	"frame": {"x":1,"y":1,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_left_2.png":
+{
+	"frame": {"x":1,"y":133,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_left_3.png":
+{
+	"frame": {"x":1,"y":265,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_left_4.png":
+{
+	"frame": {"x":1,"y":133,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_right_1.png":
+{
+	"frame": {"x":1,"y":397,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_right_2.png":
+{
+	"frame": {"x":1,"y":529,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_right_3.png":
+{
+	"frame": {"x":1,"y":661,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_bottom_right_4.png":
+{
+	"frame": {"x":1,"y":529,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_left_1.png":
+{
+	"frame": {"x":1,"y":793,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_left_2.png":
+{
+	"frame": {"x":1,"y":925,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_left_3.png":
+{
+	"frame": {"x":1,"y":1057,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_left_4.png":
+{
+	"frame": {"x":1,"y":925,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_right_1.png":
+{
+	"frame": {"x":1,"y":1189,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_right_2.png":
+{
+	"frame": {"x":1,"y":1321,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_right_3.png":
+{
+	"frame": {"x":1,"y":1453,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"giga_walking_top_right_4.png":
+{
+	"frame": {"x":1,"y":1321,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+}},
+"animations": {
+	"idle": ["giga_walking_bottom_left_2.png"],
+	"idle_s": ["giga_walking_bottom_left_2.png"],
+	"idle_ne": ["giga_walking_top_right_2.png"],
+	"idle_nw": ["giga_walking_top_left_2.png"],
+	"idle_sw": ["giga_walking_bottom_left_2.png"],
+	"idle_se": ["giga_walking_bottom_right_2.png"],
+	"move_sw": ["giga_walking_bottom_left_1.png","giga_walking_bottom_left_2.png","giga_walking_bottom_left_3.png","giga_walking_bottom_left_4.png"],
+	"move_se": ["giga_walking_bottom_right_1.png","giga_walking_bottom_right_2.png","giga_walking_bottom_right_3.png","giga_walking_bottom_right_4.png"],
+	"move_nw": ["giga_walking_top_left_1.png","giga_walking_top_left_2.png","giga_walking_top_left_3.png","giga_walking_top_left_4.png"],
+	"move_ne": ["giga_walking_top_right_1.png","giga_walking_top_right_2.png","giga_walking_top_right_3.png","giga_walking_top_right_4.png"]
+},
+"meta": {
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/giga/giga.png",
+	"format": "RGBA8888",
+	"size": {"w":92,"h":1584},
+	"scale": "1"
+}
+}

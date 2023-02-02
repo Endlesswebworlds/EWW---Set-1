@@ -1,0 +1,150 @@
+{"frames": {
+
+"walking_bottom left_1.png":
+{
+	"frame": {"x":0,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom left_2.png":
+{
+	"frame": {"x":90,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom left_3.png":
+{
+	"frame": {"x":180,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom left_4.png":
+{
+	"frame": {"x":270,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom right_1.png":
+{
+	"frame": {"x":360,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom right_2.png":
+{
+	"frame": {"x":450,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom right_3.png":
+{
+	"frame": {"x":540,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_bottom right_4.png":
+{
+	"frame": {"x":630,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top left_1.png":
+{
+	"frame": {"x":720,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top left_2.png":
+{
+	"frame": {"x":810,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top left_3.png":
+{
+	"frame": {"x":900,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top left_4.png":
+{
+	"frame": {"x":990,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top right_1.png":
+{
+	"frame": {"x":1080,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top right_2.png":
+{
+	"frame": {"x":1170,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top right_3.png":
+{
+	"frame": {"x":1260,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"walking_top right_4.png":
+{
+	"frame": {"x":1350,"y":0,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+}},
+"animations": {
+	"idle": ["walking_bottom left_2.png"],
+	"idle_s": ["walking_bottom left_2.png"],
+	"idle_ne": ["walking_top right_2.png"],
+	"idle_nw": ["walking_top left_2.png"],
+	"idle_sw": ["walking_bottom left_2.png"],
+	"idle_se": ["walking_bottom right_2.png"],
+	"move_sw": ["walking_bottom left_1.png","walking_bottom left_2.png","walking_bottom left_3.png","walking_bottom left_4.png"],
+	"move_se": ["walking_bottom right_1.png","walking_bottom right_2.png","walking_bottom right_3.png","walking_bottom right_4.png"],
+	"move_nw": ["walking_top left_1.png","walking_top left_2.png","walking_top left_3.png","walking_top left_4.png"],
+	"move_ne": ["walking_top right_1.png","walking_top right_2.png","walking_top right_3.png","walking_top right_4.png"]
+},
+"meta": {
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/vixen/vixen.png",
+	"format": "RGBA8888",
+	"size": {"w":1440,"h":130},
+	"scale": "1"
+}
+}
