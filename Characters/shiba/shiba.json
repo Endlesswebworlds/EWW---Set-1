@@ -1,0 +1,146 @@
+{"frames": {
+
+"shiba_walking_bottom left_1.png":
+{
+	"frame": {"x":1,"y":85,"w":83,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":83,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom left_2.png":
+{
+	"frame": {"x":1,"y":1,"w":82,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":82,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom left_3.png":
+{
+	"frame": {"x":1,"y":342,"w":86,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":86,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom left_4.png":
+{
+	"frame": {"x":121,"y":85,"w":83,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":83,"h":119},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom right_1.png":
+{
+	"frame": {"x":1,"y":170,"w":83,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":83,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom right_2.png":
+{
+	"frame": {"x":121,"y":1,"w":82,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":82,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom right_3.png":
+{
+	"frame": {"x":121,"y":342,"w":86,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":86,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_bottom right_4.png":
+{
+	"frame": {"x":121,"y":170,"w":83,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":83,"h":119},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top left_1.png":
+{
+	"frame": {"x":1,"y":430,"w":86,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":86,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top left_2.png":
+{
+	"frame": {"x":1,"y":255,"w":85,"h":116},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":85,"h":116},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top left_3.png":
+{
+	"frame": {"x":121,"y":430,"w":86,"h":115},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":86,"h":115},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top left_4.png":
+{
+	"frame": {"x":1,"y":518,"w":86,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":86,"h":119},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top right_1.png":
+{
+	"frame": {"x":122,"y":518,"w":86,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":86,"h":118},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top right_2.png":
+{
+	"frame": {"x":119,"y":255,"w":85,"h":116},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":85,"h":116},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top right_3.png":
+{
+	"frame": {"x":1,"y":606,"w":86,"h":115},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":86,"h":115},
+	"sourceSize": {"w":90,"h":120}
+},
+"shiba_walking_top right_4.png":
+{
+	"frame": {"x":118,"y":606,"w":86,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":119},
+	"sourceSize": {"w":90,"h":120}
+}},
+"animations": {
+	"shiba_walking_bottom left": ["shiba_walking_bottom left_1.png","shiba_walking_bottom left_2.png","shiba_walking_bottom left_3.png","shiba_walking_bottom left_4.png"],
+	"shiba_walking_bottom right": ["shiba_walking_bottom right_1.png","shiba_walking_bottom right_2.png","shiba_walking_bottom right_3.png","shiba_walking_bottom right_4.png"],
+	"shiba_walking_top left": ["shiba_walking_top left_1.png","shiba_walking_top left_2.png","shiba_walking_top left_3.png","shiba_walking_top left_4.png"],
+	"shiba_walking_top right": ["shiba_walking_top right_1.png","shiba_walking_top right_2.png","shiba_walking_top right_3.png","shiba_walking_top right_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/shiba/shiba.png",
+	"format": "RGBA8888",
+	"size": {"w":241,"h":693},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:07137eedc59a1e1a315de6f3b7cbecf2:c1b1788d1f15aee267c62e31f2dc5d44:1189932c883992b5efdf84ad807adac7$"
+}
+}
