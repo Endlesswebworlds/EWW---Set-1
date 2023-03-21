@@ -1,0 +1,56 @@
+{"frames": {
+
+"hat_bottom_left.png":
+{
+	"frame": {"x":1,"y":68,"w":77,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":77,"h":51},
+	"sourceSize": {"w":89,"h":128}
+},
+"hat_bottom_right.png":
+{
+	"frame": {"x":80,"y":68,"w":77,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":77,"h":51},
+	"sourceSize": {"w":89,"h":128}
+},
+"hat_top_left.png":
+{
+	"frame": {"x":1,"y":1,"w":88,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":65},
+	"sourceSize": {"w":89,"h":128}
+},
+"hat_top_right.png":
+{
+	"frame": {"x":91,"y":1,"w":88,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":88,"h":65},
+	"sourceSize": {"w":89,"h":128}
+}},
+"animations": {
+	"idle": ["hat_bottom_left.png"],
+	"idle_s": ["hat_bottom_left.png"],
+	"idle_ne": ["hat_top_right.png"],
+	"idle_nw": ["hat_top_left"],
+	"idle_sw": ["hat_bottom_left.png"],
+	"idle_se": ["hat_bottom_left.png"],
+	"move_sw": ["hat_bottom_left"],
+	"move_se": ["hat_bottom_right"],
+	"move_nw": ["hat_top_left"],
+	"move_ne": ["hat_top_right.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Wearables/black-hat/black-hat.png",
+	"format": "RGBA8888",
+	"size": {"w":180,"h":120},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9db753cd4c52a153dcd3cbc17295f7c4:7d0af769989ab53877be37683bf0e3cc:a210b3ecab7a3cd17cac7ec77bddd153$"
+}
+}
