@@ -36,12 +36,12 @@
 	"idle": ["hat_bottom_left.png"],
 	"idle_s": ["hat_bottom_left.png"],
 	"idle_ne": ["hat_top_right.png"],
-	"idle_nw": ["hat_top_left"],
+	"idle_nw": ["hat_top_left.png"],
 	"idle_sw": ["hat_bottom_left.png"],
 	"idle_se": ["hat_bottom_left.png"],
-	"move_sw": ["hat_bottom_left"],
-	"move_se": ["hat_bottom_right"],
-	"move_nw": ["hat_top_left"],
+	"move_sw": ["hat_bottom_left.png"],
+	"move_se": ["hat_bottom_right.png"],
+	"move_nw": ["hat_top_left.png"],
 	"move_ne": ["hat_top_right.png"]
 },
 "meta": {
