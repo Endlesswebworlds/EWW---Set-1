@@ -1,0 +1,152 @@
+{"frames": {
+
+"straw_walking_bottom left_1.png":
+{
+	"frame": {"x":1,"y":1,"w":89,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":89,"h":64},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_bottom left_2.png":
+{
+	"frame": {"x":1,"y":255,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":62},
+	"sourceSize": {"w":90,"h":117}
+},
+"straw_walking_bottom left_3.png":
+{
+	"frame": {"x":1,"y":1,"w":89,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":89,"h":64},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_bottom left_4.png":
+{
+	"frame": {"x":1,"y":255,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":62},
+	"sourceSize": {"w":90,"h":117}
+},
+"straw_walking_bottom right_1.png":
+{
+	"frame": {"x":1,"y":67,"w":89,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":89,"h":64},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_bottom right_2.png":
+{
+	"frame": {"x":1,"y":319,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":88,"h":62},
+	"sourceSize": {"w":90,"h":117}
+},
+"straw_walking_bottom right_3.png":
+{
+	"frame": {"x":1,"y":67,"w":89,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":89,"h":64},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_bottom right_4.png":
+{
+	"frame": {"x":1,"y":319,"w":88,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":88,"h":62},
+	"sourceSize": {"w":90,"h":117}
+},
+"straw_walking_top left_1.png":
+{
+	"frame": {"x":1,"y":133,"w":89,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":89,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top left_2.png":
+{
+	"frame": {"x":1,"y":383,"w":85,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":85,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top left_3.png":
+{
+	"frame": {"x":1,"y":133,"w":89,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":89,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top left_4.png":
+{
+	"frame": {"x":1,"y":383,"w":85,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":85,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top right_1.png":
+{
+	"frame": {"x":1,"y":194,"w":89,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":89,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top right_2.png":
+{
+	"frame": {"x":1,"y":444,"w":85,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":12,"w":85,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top right_3.png":
+{
+	"frame": {"x":1,"y":194,"w":89,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":89,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"straw_walking_top right_4.png":
+{
+	"frame": {"x":1,"y":444,"w":85,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":12,"w":85,"h":59},
+	"sourceSize": {"w":89,"h":128}
+}},
+"animations": {
+	"idle":  ["straw_walking_bottom left_1.png","straw_walking_bottom left_2.png","straw_walking_bottom left_3.png","straw_walking_bottom left_4.png"],
+	"idle_s":  ["straw_walking_bottom left_1.png","straw_walking_bottom left_2.png","straw_walking_bottom left_3.png","straw_walking_bottom left_4.png"],
+	"idle_ne": ["straw_walking_top right_1.png","straw_walking_top right_2.png","straw_walking_top right_3.png","straw_walking_top right_4.png"],
+	"idle_nw": ["straw_walking_top left_1.png","straw_walking_top left_2.png","straw_walking_top left_3.png","straw_walking_top left_4.png"],
+	"idle_sw":  ["straw_walking_bottom left_1.png","straw_walking_bottom left_2.png","straw_walking_bottom left_3.png","straw_walking_bottom left_4.png"],
+	"idle_se":  ["straw_walking_bottom left_1.png","straw_walking_bottom left_2.png","straw_walking_bottom left_3.png","straw_walking_bottom left_4.png"],
+	"move_sw":  ["straw_walking_bottom left_1.png","straw_walking_bottom left_2.png","straw_walking_bottom left_3.png","straw_walking_bottom left_4.png"],
+	"move_se": ["straw_walking_bottom right_1.png","straw_walking_bottom right_2.png","straw_walking_bottom right_3.png","straw_walking_bottom right_4.png"],
+	"move_nw": ["straw_walking_top left_1.png","straw_walking_top left_2.png","straw_walking_top left_3.png","straw_walking_top left_4.png"],
+	"move_ne": ["straw_walking_top right_1.png","straw_walking_top right_2.png","straw_walking_top right_3.png","straw_walking_top right_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Wearables/strawhat/straw.png",
+	"format": "RGBA8888",
+	"size": {"w":91,"h":504},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b410cbe0cc21a3e9f0b826235c76be55:f23fbe46dbfd7b04ebe18c5323768ea3:9aae2f378288a0f4a077fa1e703f370a$"
+}
+}
