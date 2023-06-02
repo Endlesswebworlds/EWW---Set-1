@@ -1,0 +1,152 @@
+{"frames": {
+
+"googles_walking_bottom left_1.png":
+{
+	"frame": {"x":1,"y":1,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom left_2.png":
+{
+	"frame": {"x":1,"y":32,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":46,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom left_3.png":
+{
+	"frame": {"x":1,"y":1,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom left_4.png":
+{
+	"frame": {"x":1,"y":63,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":46,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom right_1.png":
+{
+	"frame": {"x":1,"y":94,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom right_2.png":
+{
+	"frame": {"x":1,"y":125,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":46,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom right_3.png":
+{
+	"frame": {"x":1,"y":94,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_bottom right_4.png":
+{
+	"frame": {"x":1,"y":156,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":46,"w":69,"h":29},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top left_1.png":
+{
+	"frame": {"x":72,"y":1,"w":66,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top left_2.png":
+{
+	"frame": {"x":72,"y":69,"w":66,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top left_3.png":
+{
+	"frame": {"x":72,"y":1,"w":66,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top left_4.png":
+{
+	"frame": {"x":72,"y":69,"w":66,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top right_1.png":
+{
+	"frame": {"x":72,"y":137,"w":66,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top right_2.png":
+{
+	"frame": {"x":1,"y":187,"w":66,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top right_3.png":
+{
+	"frame": {"x":72,"y":137,"w":66,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+},
+"googles_walking_top right_4.png":
+{
+	"frame": {"x":1,"y":187,"w":66,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":43,"w":66,"h":36},
+	"sourceSize": {"w":89,"h":128}
+}},
+"animations": {
+	"idle": ["googles_walking_bottom left_1.png"],
+	"idle_s": ["googles_walking_bottom left_1.png"],
+	"idle_ne": ["googles_walking_top right_1.png"],
+	"idle_nw": ["googles_walking_top left_1.png"],
+	"idle_sw": ["googles_walking_bottom left_1.png"],
+	"idle_se": ["googles_walking_bottom right_1.png"],
+	"move_sw": ["googles_walking_bottom left_1.png","googles_walking_bottom left_2.png","googles_walking_bottom left_3.png","googles_walking_bottom left_4.png"],
+	"move_se": ["googles_walking_bottom right_1.png","googles_walking_bottom right_2.png","googles_walking_bottom right_3.png","googles_walking_bottom right_4.png"],
+	"move_nw": ["googles_walking_top left_1.png","googles_walking_top left_2.png","googles_walking_top left_3.png","googles_walking_top left_4.png"],
+	"move_ne": ["googles_walking_top right_1.png","googles_walking_top right_2.png","googles_walking_top right_3.png","googles_walking_top right_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Wearables/googles/googles.png",
+	"format": "RGBA8888",
+	"size": {"w":109,"h":224},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5a698d1726e71be3aaa8de5b25d9cd0:f9cf2b8df0bad2458cfdd0dd5dc9beda:b73582012f6038882ed1812c1d51257d$"
+}
+}

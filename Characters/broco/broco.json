@@ -1,0 +1,56 @@
+{"frames": {
+
+"broco_left_1.png":
+{
+	"frame": {"x":101,"y":1,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":43,"w":50,"h":57},
+	"sourceSize": {"w":100,"h":100}
+},
+"broco_left_2.png":
+{
+	"frame": {"x":1,"y":1,"w":48,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":33,"w":48,"h":58},
+	"sourceSize": {"w":100,"h":100}
+},
+"broco_right_1.png":
+{
+	"frame": {"x":153,"y":1,"w":49,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":43,"w":49,"h":57},
+	"sourceSize": {"w":100,"h":100}
+},
+"broco_right_2.png":
+{
+	"frame": {"x":51,"y":1,"w":48,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":33,"w":48,"h":58},
+	"sourceSize": {"w":100,"h":100}
+}},
+"animations": {
+	"idle": ["broco_left_1.png"],
+	"idle_s": ["broco_left_1.png"],
+	"idle_nw": ["broco_left_1.png"],
+	"idle_sw": ["broco_left_1.png"],
+	"idle_ne": ["broco_right_1.png"],
+	"idle_se": ["broco_right_1.png"],
+	"move_se": ["broco_right_1.png","broco_right_2.png"],
+	"move_ne": ["broco_right_1.png","broco_right_2.png"],
+	"move_nw": ["broco_left_1.png","broco_left_2.png"],
+	"move_sw": ["broco_left_1.png","broco_left_2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Wearables/broco/broco.png",
+	"format": "RGBA8888",
+	"size": {"w":203,"h":60},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3938e087e82b1e1f0560c03a22eab6ae:deace3fdba91c45149957a42ba7eac76:4fc131286b516c62324ff28ecc7ca1d2$"
+}
+}

@@ -1,0 +1,152 @@
+{"frames": {
+
+"mask_walking_bottom left_1.png":
+{
+	"frame": {"x":1,"y":1,"w":82,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":82,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom left_2.png":
+{
+	"frame": {"x":169,"y":1,"w":79,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":79,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom left_3.png":
+{
+	"frame": {"x":250,"y":1,"w":79,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":79,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom left_4.png":
+{
+	"frame": {"x":331,"y":1,"w":79,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":79,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom right_1.png":
+{
+	"frame": {"x":85,"y":1,"w":82,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":20,"w":82,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom right_2.png":
+{
+	"frame": {"x":412,"y":1,"w":79,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":30,"w":79,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom right_3.png":
+{
+	"frame": {"x":493,"y":1,"w":79,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":23,"w":79,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_bottom right_4.png":
+{
+	"frame": {"x":574,"y":1,"w":79,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":26,"w":79,"h":62},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top left_1.png":
+{
+	"frame": {"x":655,"y":1,"w":79,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":79,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top left_2.png":
+{
+	"frame": {"x":979,"y":1,"w":79,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":79,"h":58},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top left_3.png":
+{
+	"frame": {"x":736,"y":1,"w":79,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":79,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top left_4.png":
+{
+	"frame": {"x":736,"y":1,"w":79,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":79,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top right_1.png":
+{
+	"frame": {"x":817,"y":1,"w":79,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":23,"w":79,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top right_2.png":
+{
+	"frame": {"x":1060,"y":1,"w":79,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":30,"w":79,"h":58},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top right_3.png":
+{
+	"frame": {"x":898,"y":1,"w":79,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":26,"w":79,"h":59},
+	"sourceSize": {"w":89,"h":128}
+},
+"mask_walking_top right_4.png":
+{
+	"frame": {"x":898,"y":1,"w":79,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":26,"w":79,"h":59},
+	"sourceSize": {"w":89,"h":128}
+}},
+"animations": {
+	"idle": ["mask_walking_bottom left_1.png"],
+	"idle_s": ["mask_walking_bottom left_1.png"],
+	"idle_ne": ["mask_walking_top right_1.png"],
+	"idle_nw": ["mask_walking_top left_1.png"],
+	"idle_sw": ["mask_walking_bottom left_1.png"],
+	"idle_se": ["mask_walking_bottom right_1.png"],
+	"move_sw": ["mask_walking_bottom left_1.png","mask_walking_bottom left_2.png","mask_walking_bottom left_3.png","mask_walking_bottom left_4.png"],
+	"move_se": ["mask_walking_bottom right_1.png","mask_walking_bottom right_2.png","mask_walking_bottom right_3.png","mask_walking_bottom right_4.png"],
+	"move_nw": ["mask_walking_top left_1.png","mask_walking_top left_2.png","mask_walking_top left_3.png","mask_walking_top left_4.png"],
+	"move_ne": ["mask_walking_top right_1.png","mask_walking_top right_2.png","mask_walking_top right_3.png","mask_walking_top right_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Wearables/mask/mask.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b8c148ba87a7aa109d4206c7576e3c30:7cff713e087cc7591ce5ddde39eda882:3a415efb6c40392f0a9c785bb38c7995$"
+}
+}
