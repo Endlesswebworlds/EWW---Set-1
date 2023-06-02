@@ -1,0 +1,152 @@
+{"frames": {
+
+"blanki_walking_bottom_left_1.png":
+{
+	"frame": {"x":1,"y":1,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_left_2.png":
+{
+	"frame": {"x":1,"y":133,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_left_3.png":
+{
+	"frame": {"x":1,"y":265,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_left_4.png":
+{
+	"frame": {"x":1,"y":397,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_right_1.png":
+{
+	"frame": {"x":1,"y":529,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_right_2.png":
+{
+	"frame": {"x":1,"y":661,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_right_3.png":
+{
+	"frame": {"x":1,"y":793,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_bottom_right_4.png":
+{
+	"frame": {"x":1,"y":925,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_left_1.png":
+{
+	"frame": {"x":1,"y":1057,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_left_2.png":
+{
+	"frame": {"x":1,"y":1189,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_left_3.png":
+{
+	"frame": {"x":1,"y":1321,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_left_4.png":
+{
+	"frame": {"x":1,"y":1189,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_right_1.png":
+{
+	"frame": {"x":1,"y":1453,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_right_2.png":
+{
+	"frame": {"x":1,"y":1585,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_right_3.png":
+{
+	"frame": {"x":1,"y":1717,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+},
+"blanki_walking_top_right_4.png":
+{
+	"frame": {"x":1,"y":1585,"w":90,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":130},
+	"sourceSize": {"w":90,"h":130}
+}},
+"animations": {
+	"idle": ["blanki_walking_bottom_left_1.png"],
+	"idle_s": ["blanki_walking_bottom_left_1.png"],
+	"idle_ne": ["blanki_walking_top_right_1.png"],
+	"idle_nw": ["blanki_walking_top_left_1.png"],
+	"idle_sw": ["blanki_walking_bottom_left_1.png"],
+	"idle_se": ["blanki_walking_bottom_right_1.png.png"],
+	"move_sw": ["blanki_walking_bottom_left_1.png","blanki_walking_bottom_left_2.png","blanki_walking_bottom_left_3.png","blanki_walking_bottom_left_4.png"],
+	"move_se": ["blanki_walking_bottom_right_1.png","blanki_walking_bottom_right_2.png","blanki_walking_bottom_right_3.png","blanki_walking_bottom_right_4.png"],
+	"move_nw": ["blanki_walking_top_left_1.png","blanki_walking_top_left_2.png","blanki_walking_top_left_3.png","blanki_walking_top_left_4.png"],
+	"move_ne": ["blanki_walking_top_right_1.png","blanki_walking_top_right_2.png","blanki_walking_top_right_3.png","blanki_walking_top_right_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/blanki/blanki.png",
+	"format": "RGBA8888",
+	"size": {"w":92,"h":1848},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f57496358cbb7ccf36013d90f08445a0:8c806f79e924e7beeeed99a79f0c63f2:4adc16022978cfe201eb038c1660232e$"
+}
+}
