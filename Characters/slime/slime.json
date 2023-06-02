@@ -80,7 +80,7 @@
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Wearables/slime/slime.png",
+	"image": "https://raw.githubusercontent.com/Endlesswebworlds/EWW-assets/main/Characters/slime/slime.png",
 	"format": "RGBA8888",
 	"size": {"w":252,"h":108},
 	"scale": "1",
